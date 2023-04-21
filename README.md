@@ -51,10 +51,7 @@
   
    <div>   
      <img title="linux" alt="linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-     <img title="csharp" alt="csharp" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />    
-     <img title="googlecloud" alt="googlecloud" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-          
-     
+     <img title="csharp" alt="csharp" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />       
   </div>
   
 ##  
