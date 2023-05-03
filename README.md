@@ -12,8 +12,9 @@
 
 
   
-  <a href="https://www.instagram.com/GislaineFrandalozo" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://www.linkedin.com/in/gislaine-frandalozo-developer/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+  <a href="https://www.instagram.com/GislaineFrandalozo" target="_blank"><img align="left" alt="Instagram" width="122px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  
+<a href="https://www.linkedin.com/in/gislaine-frandalozo-developer/" target="_blank"><img align="left" alt="LinkedIn" width="122px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
   </br>
   
