@@ -24,7 +24,7 @@
   <div>
     <img title="bash" alt="bash" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img title="nginx" alt="nginx" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-    <img title="centos" alt="centos" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
+    <img title="docker" alt="docker" width="40" height="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
     <img title="debian" alt="debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /> 
     <img title="mysql" alt="mysql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="git" alt="git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
