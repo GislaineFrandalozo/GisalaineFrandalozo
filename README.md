@@ -60,7 +60,7 @@
   
   
   <div>
-  <img title="python" alt="python" width="40" height="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+  <img title="python" alt="python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
   <img title="pandas" alt="pandas" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img title="numpy" alt="numpy" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img title="scikit learn" alt="scikit learn" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
