@@ -4,8 +4,7 @@
 <img align="right" src="https://github.com/GislaineFrandalozo/GislaineFrandalozo/blob/main/octocat-1681883435362.png" alt="Octocat Github" style="display: inline-block; width: 35%;">
 
 - 🇧🇷 I'm from Brazil.
-- 💻 I work in full-stack web development at [Dayback](https://br.linkedin.com/company/daybackbr). 
-- 🔭 I’m currently working on [Charger](https://charger.dayback.com.br/) and [Energy](https://usuario.dayback.com.br).
+- 💻 I work in back-end web development at [NewCharge Energy](https://www.linkedin.com/company/newcharge-projetos-com%C3%A9rcio-e-loca%C3%A7%C3%A3o-de-sistemas-de-armazenamento-de-energia-ltda/). 
 - 🎓 I'm currently studying Analysis and Systems Development at [UNINTER](https://www.uninter.com/).
 - 💬 Ask me about PHP and JavaScript.
 - 📫 How to reach me: 
