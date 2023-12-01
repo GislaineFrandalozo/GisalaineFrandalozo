@@ -6,7 +6,7 @@
 - 🇧🇷 I'm from Brazil.
 - 💻 Back-end developer at [NewCharge Energy](https://www.linkedin.com/company/newcharge-projetos-com%C3%A9rcio-e-loca%C3%A7%C3%A3o-de-sistemas-de-armazenamento-de-energia-ltda/). 
 - 🎓 I'm currently studying Analysis and Systems Development at [UNINTER](https://www.uninter.com/).
-- 💬 Ask me about PHP and JavaScript.
+- 💬 Ask me about PHP and NodeJS.
 - 📫 How to reach me: 
 
 
