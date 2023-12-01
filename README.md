@@ -25,14 +25,22 @@
     <img title="nginx" alt="nginx" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
     <img title="debian" alt="debian" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /> 
     <img title="ubuntu" alt="ubuntu" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img title="docker" alt="docker" width="40" height="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
     <img title="mysql" alt="mysql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img title="postgresql" alt="postgresql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img title="neo4j" alt="neo4j" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+    <img title="graphql" alt="graphql" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
     <img title="git" alt="git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img title="php" alt="php" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img title="composer" alt="composer" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> 
     <img title="laravel" alt="laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-    <img title="javascript" alt="javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img title="express" alt="express" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img title="nodejs" alt="nodejs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img title="javascript" alt="javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img title="typescript" alt="typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img title="jest" alt="jest" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img title="prisma" alt="prisma" width="80" height="40" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+    <img title="adonisjs" alt="adonisjs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+    <img title="express" alt="express" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img title="npm" alt="npm" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img title="yarn" alt="yarn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
     <img title="react" alt="react" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -51,7 +59,9 @@
   
    <div>   
      <img title="linux" alt="linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      <img title="docker" alt="docker" width="40" height="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
+     <img title="jenkins" alt="jenkins" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+     <img title="aws" alt="aws" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+     <img title="envoy" alt="envoy" width="90" height="30" src="https://www.envoyproxy.io/theme/images/envoy-logo.svg" />
   </div>
   
   
