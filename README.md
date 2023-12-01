@@ -28,6 +28,7 @@
     <img title="docker" alt="docker" width="40" height="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
     <img title="mysql" alt="mysql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img title="postgresql" alt="postgresql" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img title="sqlite" alt="sqlite" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
     <img title="neo4j" alt="neo4j" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
     <img title="graphql" alt="graphql" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
     <img title="git" alt="git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
