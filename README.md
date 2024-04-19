@@ -5,7 +5,7 @@
 
 - 🇧🇷 I'm from Brazil.
 - 💻 Back-end developer at [NewCharge Energy](https://www.linkedin.com/company/newcharge-projetos-com%C3%A9rcio-e-loca%C3%A7%C3%A3o-de-sistemas-de-armazenamento-de-energia-ltda/). 
-- 🎓 I'm currently studying Analysis and Systems Development at [UNINTER](https://www.uninter.com/).
+- 🎓 I'm currently pursuing a specialization in Software Engineering at [PUC minas](https://www.pucminas.br/destaques/Paginas/default.aspx)
 - 💬 Ask me about PHP and NodeJS.
 - 📫 How to reach me: 
 
@@ -34,7 +34,7 @@
     <img title="git" alt="git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img title="php" alt="php" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img title="composer" alt="composer" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> 
-    <img title="laravel" alt="laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img title="laravel" alt="laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img title="nodejs" alt="nodejs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img title="javascript" alt="javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img title="typescript" alt="typescript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -46,7 +46,7 @@
     <img title="yarn" alt="yarn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
     <img title="react" alt="react" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img title="css3" alt="css3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img title="tailwindcss" alt="tailwindcss" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img title="tailwindcss" alt="tailwindcss" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img title="bootstrap" alt="bootstrap" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img title="html5" alt="html5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />                   
     
@@ -61,8 +61,7 @@
    <div>   
      <img title="linux" alt="linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
      <img title="jenkins" alt="jenkins" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-     <img title="aws" alt="aws" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-     <img title="envoy" alt="envoy" width="90" height="30" src="https://www.envoyproxy.io/theme/images/envoy-logo.svg" />
+     <img title="aws" alt="aws" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   </div>
   
   
